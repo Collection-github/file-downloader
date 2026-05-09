@@ -1,0 +1,8 @@
+/assets/index-CXqzIWd6.js
+/assets/index-Qh2eOpqU.css
+/img/apple-touch-icon.png
+/img/favicon-16x16.png
+/img/favicon-32x32.png
+/img/site.webmanifest
+https://v2boxapp.org/
+https://www.googletagmanager.com/gtag/js?id=G-9B3W12PVK9
